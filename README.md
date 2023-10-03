@@ -17,7 +17,7 @@
 - [Project 3]: [-]
 
 🌐 Let's Connect:
-- GitHub: [-]
+- GitHub: [https://github.com/99Pra]
 - LinkedIn: [-]
 - Portfolio: [-]
 - Twitter: [-]
